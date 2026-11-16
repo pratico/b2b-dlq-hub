@@ -59,9 +59,9 @@ The platform runs on a battle-tested, high-availability backend stack:
 
 ## Confidentiality Notice & B2B Licensing
 
-🔒 **Proprietary Software Asset (All Rights Reserved):** This repository serves as a functional and architectural showcase within the Professional Portfolio ([https://antoniangeloflore.com](https://antoniangeloflore.com)). For operational security and NDA compliance, the source code and internal production configurations are not publicly exposed.
+🔒 **Proprietary Software Asset (All Rights Reserved):** This repository serves as a functional and architectural showcase within the Professional Portfolio ([https://antoniangeloflore.com](https://antoniangeloflore.com) — *Italian portal & video demos; English B2B delivery*). For operational security and NDA compliance, the source code and internal production configurations are not publicly exposed.
 
-🤝 **Webhook Stabilization & White-Label Licensing:** Available for custom API/webhook resilience integrations, white-label agency licensing, and asynchronous B2B technical consultations (zero calls required). Watch live technical demos on [antoniangeloflore.com](https://antoniangeloflore.com) or connect via [LinkedIn](https://www.linkedin.com/in/antoniangeloflore/).
+🤝 **Webhook Stabilization & White-Label Licensing:** Available for custom API/webhook resilience integrations, white-label agency licensing, and asynchronous B2B technical consultations (zero calls required). Watch live technical demos on [antoniangeloflore.com](https://antoniangeloflore.com) or connect via [LinkedIn](https://www.linkedin.com/in/antoniangelo-f-30003622/).
 
 ---
 
@@ -128,4 +128,4 @@ Questa combinazione garantisce stabilità operativa, prestazioni elevate e manut
 
 🔒 **Asset Software Proprietario (Tutti i diritti riservati):** Questo repository ha finalità di presentazione funzionale e architetturale per il Portfolio Professionale ([https://antoniangeloflore.com](https://antoniangeloflore.com)). Per ragioni di sicurezza operativa e accordi di riservatezza (NDA), il codice sorgente e le specifiche infrastrutturali non sono esposti pubblicamente.
 
-🤝 **Messa in Sicurezza Webhook & Licensing White-Label:** Disponibile per integrazioni B2B su misura, licenze White-Label per agenzie e consulenze tecniche asincrone (zero call). Demo video su [antoniangeloflore.com](https://antoniangeloflore.com) o contatti su [LinkedIn](https://www.linkedin.com/in/antoniangeloflore/).
+🤝 **Messa in Sicurezza Webhook & Licensing White-Label:** Disponibile per integrazioni B2B su misura, licenze White-Label per agenzie e consulenze tecniche asincrone (zero call). Demo video su [antoniangeloflore.com](https://antoniangeloflore.com) o contatti su [LinkedIn](https://www.linkedin.com/in/antoniangelo-f-30003622/).
